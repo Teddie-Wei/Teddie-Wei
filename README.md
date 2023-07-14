@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="160" src="https://media.tenor.com/DuThn51FjPcAAAAC/nerd-emoji-nerd.gif"  />
-</div>
 
 ###
 
